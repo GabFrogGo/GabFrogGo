@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gabriel / GabFrogGo</h1>
 <h3 align="center">Me encuentro desarrollando proyectos que solucionen problemáticas de forma eficiente y portable :D</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabfrogo" alt="gabfrogo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabfroggo" alt="gabfroggo" /></a> </p>
 
 - 🔭 Me encuentro trabajando en [BullServices]([Privado])
 
@@ -21,7 +21,7 @@
 
 - 📄 Conoce acerca de mis experiencias [[Pendiente]]([Pendiente])
 
-- ⚡ Gracia: **Me gustan los helados c:**
+- ⚡ Otros datos: **Me gustan los helados c:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
